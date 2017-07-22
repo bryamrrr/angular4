@@ -1,0 +1,17 @@
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+ul li a {
+  color: #DDD;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: black;
+}
